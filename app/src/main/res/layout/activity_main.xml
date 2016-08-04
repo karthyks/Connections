@@ -9,8 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.github.karthyks.connections.MainActivity">
 
-    <TextView
+    <com.digits.sdk.android.DigitsAuthButton
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_height="wrap_content"/>
 </RelativeLayout>

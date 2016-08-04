@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Connections</string>
+    <string name="one_account_allowed">Only one account is allowed!</string>
 </resources>
